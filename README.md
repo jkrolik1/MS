@@ -1,0 +1,2 @@
+# MS
+Moduł społeczny.
